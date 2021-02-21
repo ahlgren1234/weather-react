@@ -2,7 +2,7 @@
 
 Simple Weather App written in React. Fetches the weather from openweathermap.org API.
 
-[You can test the app here](https://ahlgren1234.github.io/weather-react/ "Test the App here")
+[You can test the app here.](https://ahlgren1234.github.io/weather-react/ "Test the App here")
 
 ## Screens:
 
